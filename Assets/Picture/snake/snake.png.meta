@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 59f8fb4e2874a234eafb360e98d52655
+timeCreated: 1490771902
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snake_0
+    21300002: snake_1
+    21300004: snake_2
+    21300006: snake_3
+    21300008: snake_4
+    21300010: snake_5
+    21300012: snake_6
+    21300014: snake_7
+    21300016: snake_8
+    21300018: snake_9
+    21300020: snake_10
+    21300022: snake_11
+    21300024: snake_12
+    21300026: snake_13
+    21300028: snake_14
+    21300030: snake_15
+    21300032: snake_16
+    21300034: snake_17
+    21300036: snake_18
+    21300038: snake_19
+    21300040: snake_20
+    21300042: snake_21
+    21300044: snake_22
+    21300046: snake_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snake_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 30.5}
+        - {x: -21.5, y: 24.5}
+        - {x: -24.5, y: -1.5}
+        - {x: -28.5, y: -11.5}
+        - {x: -28.5, y: -26.5}
+        - {x: -27.5, y: -30.5}
+        - {x: 16.5, y: -30.5}
+        - {x: 23.5, y: -25.5}
+        - {x: 23.5, y: 29.5}
+        - {x: 18.5, y: 30.5}
+    - name: snake_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 31.5}
+        - {x: -25.5, y: 19.5}
+        - {x: -25.5, y: -29.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 26.5, y: -24.5}
+        - {x: 26.5, y: 26.5}
+        - {x: 16.5, y: 31.5}
+    - name: snake_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 107
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 32}
+        - {x: -29.5, y: 23}
+        - {x: -29.5, y: -29}
+        - {x: 20.5, y: -29}
+        - {x: 22.5, y: -24}
+        - {x: 22.5, y: 32}
+    - name: snake_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 107
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 32.5}
+        - {x: -27.5, y: 29.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -28.5, y: -28.5}
+        - {x: -26.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 23.5, y: 23.5}
+        - {x: 18.5, y: 32.5}
+    - name: snake_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 108
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 32}
+        - {x: -25.5, y: 19}
+        - {x: -25.5, y: -30}
+        - {x: 23.5, y: -30}
+        - {x: 26.5, y: -27}
+        - {x: 26.5, y: 32}
+    - name: snake_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 109
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 28.5}
+        - {x: -9.5, y: 28.5}
+        - {x: -25.5, y: 18.5}
+        - {x: -25.5, y: -29.5}
+        - {x: -22.5, y: -30.5}
+        - {x: 19.5, y: -30.5}
+        - {x: 26.5, y: -27.5}
+        - {x: 26.5, y: 19.5}
+    - name: snake_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 107
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 30}
+        - {x: -25.5, y: 13}
+        - {x: -25.5, y: -30}
+        - {x: 14.5, y: -30}
+        - {x: 25.5, y: -29}
+        - {x: 25.5, y: 21}
+        - {x: 12.5, y: 30}
+    - name: snake_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 108
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 31.5}
+        - {x: -6.5, y: 31.5}
+        - {x: -21.5, y: 26.5}
+        - {x: -30.5, y: -9.5}
+        - {x: -30.5, y: -29.5}
+        - {x: 19.5, y: -29.5}
+        - {x: 29.5, y: -27.5}
+        - {x: 29.5, y: 25.5}
+    - name: snake_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 108
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 30.5}
+        - {x: -5.5, y: 30.5}
+        - {x: -30.5, y: 1.5}
+        - {x: -30.5, y: -28.5}
+        - {x: -28.5, y: -29.5}
+        - {x: 24.5, y: -29.5}
+        - {x: 34.5, y: -9.5}
+        - {x: 34.5, y: 22.5}
+        - {x: 33.5, y: 24.5}
+    - name: snake_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 108
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 26.5}
+        - {x: -8.5, y: 26.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -15.5, y: 4.5}
+        - {x: -13.5, y: -0.5}
+        - {x: -34.5, y: -18.5}
+        - {x: -34.5, y: -26.5}
+        - {x: -30.5, y: -29.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 27.5, y: -23.5}
+        - {x: 32.5, y: -5.5}
+        - {x: 32.5, y: 23.5}
+    - name: snake_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 106
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 27}
+        - {x: -29.5, y: -1}
+        - {x: -29.5, y: -28}
+        - {x: -25.5, y: -30}
+        - {x: 19.5, y: -30}
+        - {x: 28.5, y: -26}
+        - {x: 28.5, y: 27}
+    - name: snake_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 105
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 7.5}
+        - {x: -25.5, y: -28.5}
+        - {x: 26.5, y: -28.5}
+        - {x: 26.5, y: 24.5}
+        - {x: 25.5, y: 30.5}
+        - {x: -6.5, y: 30.5}
+        - {x: -24.5, y: 13.5}
+    - name: snake_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 25.5}
+        - {x: 20.5, y: 28.5}
+        - {x: -15.5, y: 28.5}
+        - {x: -20.5, y: 18.5}
+        - {x: -23.5, y: 7.5}
+        - {x: -22.5, y: -4.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -25.5, y: -28.5}
+        - {x: -21.5, y: -30.5}
+        - {x: 26.5, y: -30.5}
+    - name: snake_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 30}
+        - {x: 3.5, y: 30}
+        - {x: -15.5, y: 25}
+        - {x: -35.5, y: -18}
+        - {x: -35.5, y: -30}
+        - {x: 21.5, y: -30}
+        - {x: 30.5, y: -27}
+        - {x: 41.5, y: -2}
+        - {x: 41.5, y: 25}
+    - name: snake_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 26
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 27.5}
+        - {x: 11, y: 25.5}
+        - {x: -19, y: 5.5}
+        - {x: -39, y: -15.5}
+        - {x: -39, y: -30.5}
+        - {x: 27, y: -30.5}
+        - {x: 39, y: -19.5}
+        - {x: 39, y: 15.5}
+        - {x: 30, y: 27.5}
+    - name: snake_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 25
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 9}
+        - {x: 24.5, y: 16}
+        - {x: -10.5, y: 16}
+        - {x: -41.5, y: -10}
+        - {x: -41.5, y: -29}
+        - {x: -10.5, y: -29}
+        - {x: 35.5, y: -16}
+        - {x: 40.5, y: -6}
+    - name: snake_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 23
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 29}
+        - {x: -33.5, y: -12}
+        - {x: -33.5, y: -23}
+        - {x: -32.5, y: -28}
+        - {x: 21.5, y: -28}
+        - {x: 33.5, y: -16}
+        - {x: 33.5, y: 20}
+        - {x: 29.5, y: 29}
+    - name: snake_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 27
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 29}
+        - {x: -25, y: 17}
+        - {x: -25, y: -30}
+        - {x: 18, y: -30}
+        - {x: 26, y: -26}
+        - {x: 26, y: 11}
+        - {x: 18, y: 29}
+    - name: snake_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 24
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 30}
+        - {x: -8, y: 30}
+        - {x: -21, y: 14}
+        - {x: -21, y: -29}
+        - {x: 30, y: -29}
+        - {x: 31, y: -24}
+        - {x: 31, y: 23}
+    - name: snake_19
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 24
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 29.5}
+        - {x: -7, y: 27.5}
+        - {x: -17, y: 20.5}
+        - {x: -19, y: 3.5}
+        - {x: -19, y: -29.5}
+        - {x: 33, y: -29.5}
+        - {x: 33, y: 15.5}
+        - {x: 25, y: 29.5}
+    - name: snake_20
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 23
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 31}
+        - {x: -35, y: -14}
+        - {x: -35, y: -33}
+        - {x: 18, y: -33}
+        - {x: 40, y: -5}
+        - {x: 40, y: 30}
+        - {x: 38, y: 31}
+    - name: snake_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 21
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 18.5}
+        - {x: -5.5, y: 18.5}
+        - {x: -39.5, y: -11.5}
+        - {x: -39.5, y: -29.5}
+        - {x: 9.5, y: -29.5}
+        - {x: 39.5, y: -20.5}
+        - {x: 39.5, y: 14.5}
+    - name: snake_22
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 23
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 17}
+        - {x: -43, y: -13}
+        - {x: -43, y: -28}
+        - {x: 39, y: -28}
+        - {x: 39, y: 14}
+        - {x: 38, y: 17}
+    - name: snake_23
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 22
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 29}
+        - {x: -33.5, y: -4}
+        - {x: -33.5, y: -28}
+        - {x: 22.5, y: -28}
+        - {x: 33.5, y: -17}
+        - {x: 33.5, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
